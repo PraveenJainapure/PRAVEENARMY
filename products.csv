@@ -1,0 +1,11 @@
+product_id,product_name,category,brand,price,stock_quantity,weight,color,size,rating,supplier,warranty_period
+1,Product_1,Electronics,BrandB,407.02,109,5.86,Red,XL,4.0,SupplierX,6 months
+2,Product_2,Toys,BrandC,242.59,994,5.42,White,M,3.4,SupplierY,1 year
+3,Product_3,Clothing,BrandA,199.43,187,7.61,Blue,M,2.3,SupplierX,1 year
+4,Product_4,Electronics,BrandC,418.86,765,1.15,White,XL,1.2,SupplierY,1 year
+5,Product_5,Toys,BrandA,172.01,807,4.79,Blue,L,3.5,SupplierX,6 months
+6,Product_6,Toys,BrandA,325.85,669,1.94,Green,XL,4.8,SupplierY,1 year
+7,Product_7,Toys,BrandA,187.28,157,7.4,Green,XL,3.6,SupplierY,2 years
+8,Product_8,Toys,BrandC,478.79,920,2.24,Red,L,3.5,SupplierY,6 months
+9,Product_9,Clothing,BrandB,74.47,433,1.44,Blue,L,5.0,SupplierY,1 year
+10,Product_10,Toys,BrandC,435.69,298,3.31,Blue,XL,3.3,SupplierY,2 years

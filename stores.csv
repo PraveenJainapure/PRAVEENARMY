@@ -1,0 +1,11 @@
+store_id,store_name,location,manager_name,store_type,open_date,square_feet,num_employees,avg_daily_customers,region,rating,contact_number
+1,Store_1,New York,Manager_1,Online,2020-01-31,6819,24,407,North,4.2,555-0101
+2,Store_2,Chicago,Manager_2,Online,2020-02-29,7521,51,180,North,4.9,555-0102
+3,Store_3,New York,Manager_3,Online,2020-03-31,7242,68,132,North,2.7,555-0103
+4,Store_4,Los Angeles,Manager_4,Retail,2020-04-30,8742,75,282,South,3.7,555-0104
+5,Store_5,Houston,Manager_5,Retail,2020-05-31,7738,46,228,East,3.8,555-0105
+6,Store_6,Chicago,Manager_6,Retail,2020-06-30,3787,20,906,North,3.7,555-0106
+7,Store_7,Chicago,Manager_7,Online,2020-07-31,8316,96,375,South,2.7,555-0107
+8,Store_8,Los Angeles,Manager_8,Retail,2020-08-31,5305,53,274,East,4.9,555-0108
+9,Store_9,New York,Manager_9,Online,2020-09-30,3610,21,654,West,3.3,555-0109
+10,Store_10,Houston,Manager_10,Online,2020-10-31,6531,12,471,East,4.5,555-0110
